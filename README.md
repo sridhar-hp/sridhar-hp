@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Sridhar%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sridhar</h1>
 <h3 align="center">🚀 MERN Stack Developer | Full Stack Learner from India</h3>
 
@@ -32,21 +35,10 @@
 ---
 
 # 💻 Tech Stack
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -59,6 +51,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar-hp&theme=tokyonight" height="180em"/>
 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-hp&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -75,6 +71,12 @@
 
 ---
 
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 # ✨ Profile Views
 
 ![](https://komarev.com/ghpvc/?username=sridhar-hp&color=blue)
@@ -82,3 +84,5 @@
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
