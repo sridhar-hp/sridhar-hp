@@ -16,7 +16,7 @@
 - 💻 Working with **React, Node.js, Express, MongoDB, MySQL**
 - 🚀 Goal: Become an **AI Full Stack Developer**
 - ⚡ Love building real-world projects
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: sridhark3773@gmail.com
 
 ---
 
