@@ -83,6 +83,14 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sridhar-hp/sridhar-hp/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
