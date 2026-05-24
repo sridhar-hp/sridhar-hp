@@ -5,7 +5,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Full Stack Learner from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Node.js+Backend+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Node.js+Backend+Developer" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sridhar-hp/sridhar-hp/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/sridhar-hp/sridhar-hp/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
