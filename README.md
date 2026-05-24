@@ -42,18 +42,20 @@
 
 ---
 
-# 📊 GitHub Stats
+<h1>📊 GitHub Stats</h1>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sridhar-hp&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sridhar-hp&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar-hp&theme=tokyonight" height="180em"/>
+<img src="https://streak-stats.demolab.com?user=sridhar-hp&theme=tokyonight&hide_border=true" width="49%" />
 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-hp&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-hp&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
 </p>
 
 ---
