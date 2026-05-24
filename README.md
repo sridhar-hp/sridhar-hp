@@ -22,7 +22,7 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/sridhark3773" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
@@ -56,6 +56,34 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-hp&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/sridhar-hp">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sridhar-hp&theme=tokyonight"/>
+</a>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sridhar-hp&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sridhar-hp&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sridhar-hp&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sridhar-hp&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/sridhar-hp?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
