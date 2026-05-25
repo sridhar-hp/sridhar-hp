@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=twitter" height="45" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://www.instagram.com/sridhar.k3773" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
 
