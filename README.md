@@ -23,13 +23,23 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sridhark3773" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://www.linkedin.com/in/sridhark3773" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://github.com/sridhar-hp" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/sridhar-hp" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
+
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
 </p>
 
 ---
