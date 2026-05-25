@@ -98,6 +98,50 @@
 
 ---
 
+# 🚀 Featured Projects
+
+## 💻 Browser-Based Coding Sandbox
+
+A MERN-based browser coding sandbox developed as an internship assignment project. The platform allows users to create, edit, run, and preview projects directly from the browser with real-time updates and session persistence.
+
+### ✨ Features
+- File & Folder Management
+- Live Code Preview
+- Real-Time Updates
+- Session Persistence
+- npm Package Support
+- Browser-Based IDE Experience
+
+### 🛠️ Tech Stack
+React • Node.js • Express • MongoDB • JavaScript
+
+🔗 Live Demo: https://internship-wine-xi.vercel.app/
+
+🔗 GitHub Repo: https://github.com/sridhar-hp/internship
+
+---
+
+## 🚧 Leave Management System (LMS)
+
+A real-world full stack Leave Management System currently under active development. This project focuses on scalability, security, reliability, and user experience.
+
+### ✨ Current Features
+- Secure Authentication
+- Password Hashing
+- Role-Based Access
+- Leave Workflow Management
+- Advanced State Management
+- REST API Integration
+- Responsive UI
+- Performance Optimization
+
+### 🛠️ Tech Stack
+React • Node.js • Express • MongoDB/MySQL • JWT
+
+📌 Status: Actively Developing & Continuously Improving
+
+---
+
 # 📈 Contribution Graph
 
 [![Sridhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sridhar-hp&theme=tokyo-night)](https://github.com/sridhar-hp)
