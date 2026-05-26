@@ -14,7 +14,7 @@
 
 - 🌱 Currently learning **Advanced Full Stack Development**
 - 💻 Working with **React, Node.js, Express, MongoDB, MySQL**
-- 🚀 Goal: Become an **Full Stack Developer**
+- 🚀 Goal: Become a **Full Stack Developer**
 - ⚡ Love building real-world projects
 - 📫 Reach me: **sridhark3773@gmail.com**
 
@@ -200,7 +200,9 @@ Build → Learn → Improve → Refactor → Optimize → Repeat
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sridhar-hp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sridhar-hp&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
