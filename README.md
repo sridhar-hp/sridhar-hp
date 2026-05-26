@@ -14,9 +14,9 @@
 
 - 🌱 Currently learning **Advanced Full Stack Development**
 - 💻 Working with **React, Node.js, Express, MongoDB, MySQL**
-- 🚀 Goal: Become an **AI Full Stack Developer**
+- 🚀 Goal: Become an **Full Stack Developer**
 - ⚡ Love building real-world projects
-- 📫 Reach me: sridhark3773@gmail.com
+- 📫 Reach me: **sridhark3773@gmail.com**
 
 ---
 
