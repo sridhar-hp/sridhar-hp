@@ -205,6 +205,9 @@ Build → Learn → Improve → Refactor → Optimize → Repeat
     src="https://github-profile-trophy.vercel.app/?username=sridhar-hp&theme=tokyonight&no-frame=true&row=1&column=6" 
   />
 </p>
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sridhar-hp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
