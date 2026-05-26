@@ -142,6 +142,56 @@ React • Node.js • Express • MongoDB/MySQL • JWT
 
 ---
 
+# 💼 What I'm Working On
+
+```javascript
+const sridhar = {
+    currentlyBuilding: "Leave Management System (LMS)",
+
+    learning: [
+        "Advanced State Management",
+        "TypeScript",
+        "Backend Optimization",
+        "Authentication & Security"
+    ],
+
+    workingOn: [
+        "Scalable Full Stack Applications",
+        "Real-World MERN Projects",
+        "Performance Improvements"
+    ],
+
+    askMeAbout: [
+        "React",
+        "Node.js",
+        "MERN Stack",
+        "Full Stack Development"
+    ],
+
+    goal: "Become an Full Stack Developer 🚀",
+
+    funFact: "I continuously improve my projects by implementing newly learned concepts."
+};
+```
+
+---
+
+# ⚡ Developer Workflow
+
+```txt
+Build → Learn → Improve → Refactor → Optimize → Repeat
+```
+
+### 💡 My Development Approach
+
+- Build real-world projects
+- Learn by implementing features
+- Continuously improve existing systems
+- Focus on scalability and performance
+- Write cleaner and more maintainable code over time
+  
+---
+
 # 📈 Contribution Graph
 
 [![Sridhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sridhar-hp&theme=tokyo-night)](https://github.com/sridhar-hp)
