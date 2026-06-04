@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+<a href="https://x.com/sridhar3773" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" height="45" />
 </a>
 
