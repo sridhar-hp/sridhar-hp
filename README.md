@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Sridhar%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 <h1 align="center">Hi 👋, I'm Sridhar</h1>
-<h3 align="center">🚀 MERN Stack Developer | Full Stack Learner from India</h3>
+<h3 align="center">🚀 🚀 Aspiring Full Stack Developer from India </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Node.js+Backend+Developer" />
@@ -19,6 +19,16 @@
 - 📫 Reach me: **sridhark3773@gmail.com**
 
 ---
+
+## 📚 Currently Learning
+
+- TypeScript
+- Advanced React Patterns
+- Backend Optimization
+- Authentication & Security
+- System Design Fundamentals
+
+  ---
 
 # 🌐 Connect With Me
 
@@ -194,7 +204,7 @@ const sridhar = {
         "Full Stack Development"
     ],
 
-    goal: "Become an Full Stack Developer 🚀",
+    goal: "Become a Full Stack Developer 🚀",
 
     funFact: "I continuously improve my projects by implementing newly learned concepts."
 };
@@ -231,9 +241,6 @@ Build → Learn → Improve → Refactor → Optimize → Repeat
     src="https://github-profile-trophy.vercel.app/?username=sridhar-hp&theme=tokyonight&no-frame=true&row=1&column=6" 
   />
 </p>
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sridhar-hp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
