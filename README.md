@@ -138,7 +138,7 @@ React • Node.js • Express • MongoDB/MySQL • JWT
 
 <img src="https://github-readme-stats.vercel.app/api?username=sridhar-hp&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=sridhar-hp&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=sridhar-hp&theme=tokyonight&hide_border=true" width="50%" />
 
 </p>
 
